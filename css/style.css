@@ -53,6 +53,12 @@ img{
 	height: 200px;
 }
 
+figure{
+	text-align: center;
+	margin: 30px 0 0 0;
+
+}
+
 .title {
 	text-transform: uppercase;
 	font-weight: 800;
