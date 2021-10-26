@@ -49,6 +49,10 @@ a {
 
 }
 
+img{
+	height: 200px;
+}
+
 .title {
 	text-transform: uppercase;
 	font-weight: 800;
