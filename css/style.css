@@ -65,6 +65,20 @@ a {
 
 }
 
+.free-trail{
+	text-decoration: none;
+    background-color: #923A30;
+    border: #5A0A00 solid 2px;
+    border-radius: 10px;
+    margin: 10px 40%;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: 800;
+    padding: 5px;
+
+
+}
+
 h3 {
 	text-transform: uppercase;
 	font-weight: 800;
@@ -102,4 +116,18 @@ color: mistyrose;
     padding: 5px;
 	}
 
+
+.free-trail{
+	text-decoration: none;
+    background-color: #923A30;
+    border: #5A0A00 solid 2px;
+    border-radius: 10px;
+    margin: 10px 15%;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: 800;
+    padding: 5px;
+
+
+}
 }
