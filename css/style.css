@@ -113,7 +113,10 @@ color: mistyrose;
 
 @media all and (max-width: 800px) {
 
- 
+ .title{
+ 	text-align: center;
+ 	font-size: 25px;
+ }
  li {
 	text-decoration: none;
     background-color: #440700;
