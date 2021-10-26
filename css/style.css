@@ -85,3 +85,21 @@ footer{
 color: mistyrose;
 
 }
+
+
+@media all and (max-width: 800px) {
+
+ 
+ li {
+	text-decoration: none;
+    background-color: #440700;
+    border: #5A0A00 solid 1px;
+    border-radius: 10px;
+    margin: 10px 15%;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: 800;
+    padding: 5px;
+	}
+
+}
